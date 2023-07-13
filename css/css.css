@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+}
+h1{
+    font-weight: 700; 
+}
+#sina_icon{
+    width: 140px;
+    height: 37px;
+}
+.main_title{
+    font-size: 38px;
+    color: #4d4f53;
+    /* letter-spacing: 1px;
+    line-height: 54px;
+    padding: 40px 0; */
+}
+.source_name{
+    font-size: 16px;
+    color: #888;
+}
+.main_content{
+    font-size: 18px;
+    color: #000;
+    text-indent: 36px;
+    letter-spacing: 1px;
+    line-height: 32px;
+}
+.end_name{
+    font-size: 20px;
+    color: #888;
+    text-align: right;
+
+}
+.box{
+    width: 65%;
+    margin: 0 auto;
+}
